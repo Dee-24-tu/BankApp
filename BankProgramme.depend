@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1713274228 source:c:\users\lebul\onedrive\desktop\dieketsengcynthialebuli_l6oop_proj_2024\bankprogramme\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1713958681 source:c:\users\d23128294\desktop\dieketsengcynthialebuli_l6oop_proj_2024\bankprogramme\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<vector>
+	<string>
+	<cctype>
+	<algorithm>
+	"BANK_USERS.cpp"
+
+1713275552 c:\users\d23128294\desktop\dieketsengcynthialebuli_l6oop_proj_2024\bankprogramme\bank_users.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<string>
+
